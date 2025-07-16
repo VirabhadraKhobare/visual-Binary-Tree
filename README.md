@@ -7,6 +7,36 @@ An interactive binary tree visualization application built with React, Next.js, 
 ![TypeScript](https://img.shields.io/badge/TypeScript-5+-blue?logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3+-38B2AC?logo=tailwind-css)
 
+## 📖 About
+
+Visual Binary Tree is an educational and interactive web application designed to help students, developers, and computer science enthusiasts understand binary tree data structures through visual representation. The project combines modern web technologies with intuitive user experience design to make learning data structures engaging and accessible.
+
+### 🎯 Purpose
+
+Binary trees are fundamental data structures in computer science, but they can be challenging to understand through text and static diagrams alone. This application bridges that gap by providing:
+
+- **Visual Learning** - See how binary trees grow and change in real-time
+- **Interactive Exploration** - Click, insert, and manipulate nodes directly
+- **Educational Value** - Perfect for students learning data structures and algorithms
+- **Developer Tool** - Useful for developers who need to quickly visualize tree structures
+
+### 🌟 What Makes It Special
+
+- **Zero Setup Required** - Works directly in your browser, no installation needed
+- **Real-time Visualization** - See immediate visual feedback for every operation
+- **Operation History** - Track and review all operations performed on the tree
+- **Modern Design** - Clean, intuitive interface that doesn't get in the way of learning
+- **Accessibility** - Supports both light and dark themes with responsive design
+- **Educational Focus** - Built specifically with learning and teaching in mind
+
+### 🎓 Use Cases
+
+- **Computer Science Education** - Teachers can use it to demonstrate binary tree concepts
+- **Self-Learning** - Students can experiment with different tree structures
+- **Algorithm Visualization** - Developers can visualize tree-based algorithms
+- **Interview Preparation** - Practice binary tree problems with visual feedback
+- **Prototyping** - Quickly sketch out tree structures for planning purposes
+
 ## ✨ Features
 
 - **Interactive Tree Visualization** - Click to select nodes and visualize tree structure
