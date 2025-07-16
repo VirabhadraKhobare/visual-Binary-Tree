@@ -49,7 +49,7 @@ Binary trees are fundamental data structures in computer science, but they can b
 
 ## 🚀 Demo
 
-[Live Demo](https://your-deployment-url.vercel.app) *(Deploy and add your URL)*
+[Live Demo](https://visual-binary-tree-viru.netlify.app/) *(Deploy and add your URL)*
 
 ## 📋 Prerequisites
 
