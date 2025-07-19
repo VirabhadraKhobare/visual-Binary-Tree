@@ -49,7 +49,7 @@ Binary trees are fundamental data structures in computer science, but they can b
 
 ## 🚀 Demo
 
-[Live Demo](https://visual-binary-tree-viru.netlify.app/) *(Deploy and add your URL)*
+[Live Demo](https://visual-binary-tree-viru.netlify.app/)
 
 ## 📋 Prerequisites
 
@@ -57,31 +57,6 @@ Before running this project, make sure you have:
 
 - Node.js 18+ installed
 - npm or yarn package manager
-
-## 🛠️ Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/VirabhadraKhobare/visual-Binary-Tree.git
-   cd visual-Binary-Tree
-   ```
-
-2. **Install dependencies**
-   ```bash
-   npm install
-   # or
-   yarn install
-   ```
-
-3. **Run the development server**
-   ```bash
-   npm run dev
-   # or
-   yarn dev
-   ```
-
-4. **Open your browser**
-   Navigate to [http://localhost:3000](http://localhost:3000)
 
 ## 📁 Project Structure
 
@@ -162,19 +137,6 @@ NEXT_PUBLIC_APP_NAME="Visual Binary Tree"
 - **[shadcn/ui](https://ui.shadcn.com/)** - Re-usable components built with Radix UI
 - **[Lucide React](https://lucide.dev/)** - Beautiful & consistent icon toolkit
 - **[next-themes](https://github.com/pacocoursey/next-themes)** - Theme switching library
-
-## 🚀 Deployment
-
-### Vercel (Recommended)
-
-1. Push your code to GitHub
-2. Connect your repository to [Vercel](https://vercel.com)
-3. Deploy with zero configuration
-
-### Other Platforms
-
-- **Netlify**: `npm run build && npm run export`
-- **GitHub Pages**: Enable static export in `next.config.ts`
 
 ## 🤝 Contributing
 
